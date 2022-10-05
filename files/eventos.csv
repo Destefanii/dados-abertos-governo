@@ -1,127 +1,70 @@
-,id,uri,dataHoraInicio,dataHoraFim,situacao,descricaoTipo,descricao,localExterno,orgaos,localCamara,urlRegistro
-0,66306,https://dadosabertos.camara.leg.br/api/v2/eventos/66306,2022-08-17T14:00,,Convocada,Audiência Pública,"Protocolo Retinopatia Diabética no SUS voltado para idosos
- REUNIÃO CONJUNTA",,"[{'id': 2014, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/2014', 'sigla': 'CSSF', 'nome': 'Comissão de Seguridade Social e Família', 'apelido': 'Seguridade Social e Família', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão de Seguridade Social e Família', 'nomeResumido': 'Seguridade Social'}, {'id': 537871, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/537871', 'sigla': 'CIDOSO', 'nome': 'Comissão de Defesa dos Direitos da Pessoa Idosa', 'apelido': 'Defesa dos Direitos da Pessoa Idosa', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão de Defesa dos Direitos da Pessoa Idosa', 'nomeResumido': 'Idosos'}]","{'nome': 'Anexo II, Plenário 12', 'predio': None, 'sala': None, 'andar': None}",
-1,66310,https://dadosabertos.camara.leg.br/api/v2/eventos/66310,2022-08-18T10:00,2022-08-18T13:39,Encerrada (Final),Evento Técnico,"Lei Paulo Gustavo como incentivo para gestão cultural MT
- Requerimento 3/2022 de autoria da Deputada Professora Rosa Neide
-
-Expresso 168: A cultura no país, a Lei Paulo Gustavo e os desafios para o fomento do setor
-Público: produtores e produtoras, artistas, técnicos e técnicas, mestres e mestras da cultura popular e a todos (as) os (as) fazedores (as) de cultura, gestores/as e interessados/as",Secretaria de Cultura de Cuiabá - MT,"[{'id': 536996, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/536996', 'sigla': 'CCULT', 'nome': 'Comissão de Cultura', 'apelido': 'Cultura', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão de Cultura', 'nomeResumido': 'Cultura'}]","{'nome': None, 'predio': None, 'sala': None, 'andar': None}",
-2,66311,https://dadosabertos.camara.leg.br/api/v2/eventos/66311,2022-08-19T10:00,2022-08-19T17:21,Encerrada,Evento Técnico,"Lei Paulo Gustavo como incentivo para gestão cultural MT
- Requerimento 3/2022 de autoria da Deputada Professora Rosa Neide
-
-Expresso 168: A lei Paulo Gustavo como incentivo para gestão cultural no Estado Mato Grosso em regime de colaboração com os municípios
-Público: Gestores e Dirigentes do Setor Cultural",Secretaria de Cultura do Mato Grosso - Cuiabá,"[{'id': 536996, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/536996', 'sigla': 'CCULT', 'nome': 'Comissão de Cultura', 'apelido': 'Cultura', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão de Cultura', 'nomeResumido': 'Cultura'}]","{'nome': None, 'predio': None, 'sala': None, 'andar': None}",
-3,66319,https://dadosabertos.camara.leg.br/api/v2/eventos/66319,2022-08-24T10:00,,Convocada,Audiência Pública,"Agosto Lilás - Os Desafios da Aplicação da Lei Maria da Penha
- COM A PARTICIPAÇÃO DA SECRETARIA DA MULHER DA CÂMARA DOS DEPUTADOS.
-
-
-O Evento integra a campanha Agosto Lilás e comemora os 16 anos da legislação
-
-
-Participantes Convidadas:
-
-
-1) LEILA BRANT ASSAF, Coordenadora-Geral de Dados, Informações e Combate, do Departamento de Políticas de Enfrentamento à Violência contra as Mulheres da Secretaria Nacional de Políticas para as Mulheres do Ministério da Mulher, da Família e dos Direitos Humanos; (confirmada)
-
-2) MARIA CRISTIANA ZIOUVA, Assessora de Apoio Interinstitucional do Conselho Nacional de Justiça  - CNJ (confirmada);
-
-3) JULIANA MARTINS, Coordenadora Institucional do Fórum Brasileiro de Segurança Pública - FBSP (confirmada);
-
-4) BEATRIZ ACCIOLY, Coordenadora de Violência contra Mulheres, Pesquisa e Impacto no Instituto Avon (confirmada);
-
-5) DEBORA ALBU, Representante da ONU Mulheres (confirmada).
-
-
-Requerimento CMulher nº 23/2022, de autoria das Deputadas Tereza Nelma e Vivi Reis.",,"[{'id': 537870, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/537870', 'sigla': 'CMULHER', 'nome': 'Comissão de Defesa dos Direitos da Mulher', 'apelido': 'Defesa dos Direitos da Mulher', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão de Defesa dos Direitos da Mulher', 'nomeResumido': 'Mulher'}]","{'nome': 'Anexo II, Plenário 14', 'predio': None, 'sala': None, 'andar': None}",
-4,66320,https://dadosabertos.camara.leg.br/api/v2/eventos/66320,2022-08-18T14:30,2022-08-18T17:05,Encerrada,Audiência Pública,"Assédio sexual no ambiente de trabalho 
- REUNIÃO DE AUDIÊNCIA PÚBLICA
-(Requerimento nº 88/2022, da Deputada Erika Kokay)          
-
-CONVIDADOS
-
-
-DEBORAH DUPRAT
-Subprocuradora-Geral da República aposentada
-
-ROGÉRIO BIMBI  
-Presidente do Conselho de Administração da Caixa Econômica Federal - CEF
-
-RITA SERRANO
-Representante eleita dos Empregados no Conselho de Administração da CEF 
-
-SÉRGIO TAKEMOTO
-Presidente FENAE
- 
-MARIA FERNANDA RAMOS COELHO 
-Ex-presidente da Caixa Econômica Federal - CEF 
-
-CAROLINA LACERDA TOSTES 
-Empregada da Caixa Econômica Federal - CEF
-
-ADALTO DUARTE 
-Representante da Federação Brasileira de Bancos 
-
-FERNANDA LOPES 
-Representante da Contraf - CUT
-
-KLEYTTON MORAIS 
-Presidente do Sindicato dos Bancários de Brasília 
-
-RODRIGO RANGEL 
-Jornalista do Portal Metrópoles  
-
-THAÍS DUMET FARIA
-Representante da OIT
-
-MELÍCIA ALVES MESEL 
-Representante do MPT   
-
-ARNALDO CORREIA DE OLIVEIRA
-Representante do Sindiclubes",,"[{'id': 2015, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/2015', 'sigla': 'CTASP', 'nome': 'Comissão de Trabalho, de Administração e Serviço Público', 'apelido': 'Trabalho, Administração e Serviço Público', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão de Trabalho, de Administração e Serviço Público', 'nomeResumido': 'Trabalho'}]","{'nome': 'Anexo II, Plenário 10', 'predio': None, 'sala': None, 'andar': None}",https://www.youtube.com/watch?v=0ZpVnKetKR0
-5,66322,https://dadosabertos.camara.leg.br/api/v2/eventos/66322,2022-08-22T12:30,,Convocada,Evento Técnico,"Encontro na Assimbléia Legislativa de Minas Gerais
- Encontro para entrega do Relatorio da Comissão, na Assembleia de Minas, aos convidados:
-
-1 - Cáritas Brasileira Regional Minas Gerais
-
-2 - Local Authority Pension Fund Forum
-
-
-3 - Comissão de Atingidos pela Barragem do Fundão
-4 - Deputada Estadual Beatriz Cerqueira (PT)",Assembleia Legislativo de Minas Gerais. Palácio da Inconfidência - 2º andar - conjunto 244,"[{'id': 538998, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/538998', 'sigla': 'CEXBARRA', 'nome': 'Comissão Externa destinada a acompanhar e fiscalizar a repactuação do acordo referente ao rompimento da barragem de Fundão, da mineradora Samarco, que causou impactos severos nos Estados de Minas Gerais e Espírito Santo, em especial nas comunidades e municípios da Bacia do Rio Doce.', 'apelido': 'Rompimento Barragem Fundão', 'codTipoOrgao': 5, 'tipoOrgao': 'Comissão Externa', 'nomePublicacao': 'Comissão Externa sobre o Rompimento da Barragem de Fundão', 'nomeResumido': 'Barragem Fundão'}]","{'nome': None, 'predio': None, 'sala': None, 'andar': None}",
-6,66333,https://dadosabertos.camara.leg.br/api/v2/eventos/66333,2022-08-25T09:00,,Convocada,Evento Técnico,"Expresso 168: A Lei Paulo Gustavo como incentivo à Cultura.
- Requerimento 3/2022 de autoria da Dep. Professora Rosa Neide.
-
-Coordenação: Dep. Érika Kokay
+id,uri,dataHoraInicio,dataHoraFim,situacao,descricaoTipo,descricao,localExterno,orgaos,localCamara,urlRegistro
+66321,https://dadosabertos.camara.leg.br/api/v2/eventos/66321,2022-09-10T08:00,2022-09-10T11:15,Encerrada (Final),Seminário,"Seminário Lei de Incentivo ao Esporte no Amazonas
+ Seminário sobre a Lei de Incentivo ao Esporte no Estado do Amazonas, em atenção ao Requerimento nº 35/2022, de autoria do Deputado Delegado Pablo.
 
 Convidados:
 
-Márcio Tavares, Historiador, Curador de arte e Gestor Cultural; 
-
-
-Chris Ramirez, Gestora e produtora cultural, assessora técnica da Comissão de Cultura;
-
-Wellington Nascimento, Conselheiro de Cultura do DF
-
-Yuri Soares Franco, Vice-Presidente  da Associação Artística Mapati - Ponto de Cultura. Mestre em História pela UnB. Especialista em Gestão de Polítics Públicas pela Unicamp",,"[{'id': 536996, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/536996', 'sigla': 'CCULT', 'nome': 'Comissão de Cultura', 'apelido': 'Cultura', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão de Cultura', 'nomeResumido': 'Cultura'}]","{'nome': 'Anexo II, Plenário 10', 'predio': None, 'sala': None, 'andar': None}",
-7,66334,https://dadosabertos.camara.leg.br/api/v2/eventos/66334,2022-08-17T10:00,2022-08-17T11:13,Encerrada,Sessão Não Deliberativa Solene,"Homenagem ao Dia do Angiologista e Cirurgião Vascular.
- Homenagem ao Dia do Angiologista e Cirurgião Vascular.",,"[{'id': 180, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/180', 'sigla': 'PLEN', 'nome': 'Plenário', 'apelido': 'Plenário', 'codTipoOrgao': 26, 'tipoOrgao': 'Plenário Virtual', 'nomePublicacao': 'Plenário', 'nomeResumido': 'Plenário'}]","{'nome': 'Plenário da Câmara dos Deputados', 'predio': None, 'sala': None, 'andar': None}",https://www.youtube.com/watch?v=dCeUFkxyVr8
-8,66337,https://dadosabertos.camara.leg.br/api/v2/eventos/66337,2022-08-17T14:00,,Convocada,Evento Técnico,Evento teste técnico operacional,,"[{'id': 100950, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/100950', 'sigla': 'EVENTOS', 'nome': 'Eventos', 'apelido': 'Outros Eventos', 'codTipoOrgao': 12000, 'tipoOrgao': 'Órgão da Câmara dos Deputados', 'nomePublicacao': 'Câmara dos Deputados - Outros Evento', 'nomeResumido': None}, {'id': 100950, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/100950', 'sigla': 'EVENTOS', 'nome': 'Eventos', 'apelido': 'Outros Eventos', 'codTipoOrgao': 12000, 'tipoOrgao': 'Órgão da Câmara dos Deputados', 'nomePublicacao': 'Câmara dos Deputados - Outros Evento', 'nomeResumido': None}]","{'nome': 'Auditório Freitas Nobre', 'predio': None, 'sala': None, 'andar': None}",https://www.youtube.com/watch?v=61YK64FV4BI
-9,66338,https://dadosabertos.camara.leg.br/api/v2/eventos/66338,2022-08-17T15:30,,Convocada,Evento Técnico,Evento teste técnico operacional,Salão Nobre,"[{'id': 100950, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/100950', 'sigla': 'EVENTOS', 'nome': 'Eventos', 'apelido': 'Outros Eventos', 'codTipoOrgao': 12000, 'tipoOrgao': 'Órgão da Câmara dos Deputados', 'nomePublicacao': 'Câmara dos Deputados - Outros Evento', 'nomeResumido': None}]","{'nome': None, 'predio': None, 'sala': None, 'andar': None}",
-10,66341,https://dadosabertos.camara.leg.br/api/v2/eventos/66341,2022-08-25T14:00,,Convocada,Audiência Pública,"Defesa da Democracia e a Segurança das Eleições Gerais de 2022
- CONVIDADOS E CONVIDADAS:
-
-
-1.Edson Borowski -  Coordenador da Federação Nacional dos Trabalhadores do Poder Judiciário e Ministério Público da União - FENAJUFE; (participação confirmada)
-2. Tata Ngunzetala  - Representante da Associação Brasileira de Juristas Pela Democracia - ABJD; (participação confirmada)
-3.Ana Gualberto - Representante da Associação Brasileira de Juristas pela Democria-ABJD; (participação confirmada)
-4.Representante da Associação Juízes para a Democracia - AJD; 
-5.Juliana Lintz -  Representante da Associação Nacional dos Defensores Públicos - ANADEP; (participação confirmada)
-6.Adriel Gael, Diretor-Executivo Nacional  do Sindicato dos Servidores do MPU - SINDMPU; (participação confirmada)
-7. Renato Cantoni - Diretor Jurídico do Sindicato dos Servidores do MPU - SINDMPU; (participação confirmada)
-7.Weverton da Silva Carvalho -  Advogado ativista, fundador do projeto #favelaforever. (participação confirmada)
+Aguardando confirmação:
+Sr. Marcelo Magalhães, Secretário Especial do Esporte, Ministério da Cidadania;
+Sra. Michelle Vinecky, Secretária Nacional de Incentivo e Fomento ao Esporte (SENIFE), Ministério da Cidadania;
+Representante da Vale S.A.;
+Representante da ArcelorMittal Brasil S.A.;
+Representante da Caixa Econômica Federal",Centro de Convenções de Manaus/AM - Auditório Vasco Vasques,"[{'id': 537236, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/537236', 'sigla': 'CESPO', 'nome': 'Comissão do Esporte', 'apelido': 'Esporte', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão do Esporte', 'nomeResumido': 'Esportes'}]","{'nome': None, 'predio': None, 'sala': None, 'andar': None}",
+66366,https://dadosabertos.camara.leg.br/api/v2/eventos/66366,2022-09-14T14:00,,Convocada,Audiência Pública,"Vacinação das pessoas com diabetes e com obesidade
+ REUNIÃO CONJUNTA",,"[{'id': 2014, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/2014', 'sigla': 'CSSF', 'nome': 'Comissão de Seguridade Social e Família', 'apelido': 'Seguridade Social e Família', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão de Seguridade Social e Família', 'nomeResumido': 'Seguridade Social'}, {'id': 537871, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/537871', 'sigla': 'CIDOSO', 'nome': 'Comissão de Defesa dos Direitos da Pessoa Idosa', 'apelido': 'Defesa dos Direitos da Pessoa Idosa', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão de Defesa dos Direitos da Pessoa Idosa', 'nomeResumido': 'Idosos'}]","{'nome': 'Anexo II, Plenário 12', 'predio': None, 'sala': None, 'andar': None}",
+66407,https://dadosabertos.camara.leg.br/api/v2/eventos/66407,2022-09-08T14:00,2022-09-08T16:00,Encerrada,Reunião Técnica,"Hospital de Amor 
+ Belchior Luiz de Melo, Presidente da Associação Noroeste Mineiro de Estudos e Combate ao Câncer (ANMECC);
 
 
 
-Requerimento nº 90/2022 - de autoria do Deputado Orlando Silva",,"[{'id': 2007, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/2007', 'sigla': 'CDHM', 'nome': 'Comissão de Direitos Humanos e Minorias', 'apelido': 'Direitos Humanos e Minorias', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão de Direitos Humanos e Minorias', 'nomeResumido': 'Direitos Humanos'}]","{'nome': 'Anexo II, Plenário 09', 'predio': None, 'sala': None, 'andar': None}",
-11,66355,https://dadosabertos.camara.leg.br/api/v2/eventos/66355,2022-08-23T09:00,,Convocada,Sessão Não Deliberativa Solene,Homenagem ao Movimento Pestalozziano,,"[{'id': 180, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/180', 'sigla': 'PLEN', 'nome': 'Plenário', 'apelido': 'Plenário', 'codTipoOrgao': 26, 'tipoOrgao': 'Plenário Virtual', 'nomePublicacao': 'Plenário', 'nomeResumido': 'Plenário'}]","{'nome': 'Plenário da Câmara dos Deputados', 'predio': None, 'sala': None, 'andar': None}",
-12,66356,https://dadosabertos.camara.leg.br/api/v2/eventos/66356,2022-08-23T11:00,,Convocada,Sessão Não Deliberativa Solene,Homenagem ao Dia Internacional das Mulheres na Engenharia,,"[{'id': 180, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/180', 'sigla': 'PLEN', 'nome': 'Plenário', 'apelido': 'Plenário', 'codTipoOrgao': 26, 'tipoOrgao': 'Plenário Virtual', 'nomePublicacao': 'Plenário', 'nomeResumido': 'Plenário'}]","{'nome': 'Plenário da Câmara dos Deputados', 'predio': None, 'sala': None, 'andar': None}",
+Jaime Correia Guimarães, Vice-Presidente da Associação Noroeste Mineiro de Estudos e Combate ao Câncer (ANMECC);
+
+
+
+Euler Lacerda Braga, Diretor Administrativo da Associação Noroeste Mineiro de Estudos e Combate ao Câncer (ANMECC);
+
+
+
+Marcos Regenis José de Sousa, Diretor Tesoureiro da Associação Noroeste Mineiro de Estudos e Combate ao Câncer (ANMECC);
+
+
+
+Silvone Francisca de Oliveira, Secretaria Executiva da Associação Noroeste Mineiro de Estudos e Combate ao Câncer (ANMECC); 
+
+
+
+José Adão de Faria, Conselheiro Fiscal da Associação Noroeste Mineiro de Estudos e Combate ao Câncer (ANMECC);
+
+
+
+Geraldo Antonio de Oliveira, Conselheiro Fiscal da Associação Noroeste Mineiro de Estudos e Combate ao Câncer (ANMECC); e Presidente do Saneamento de Abastecimento de Água e Egosto de UNAI (SAAE)
+
+(Requerimento nº 7/22, da Dep Silvia Cristina)",Sede Lions Clube - Unaí/MG,"[{'id': 538490, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/538490', 'sigla': 'CECANCER', 'nome': 'Comissão especial destinada a acompanhar as ações de combate ao câncer no Brasil', 'apelido': 'Combate ao Câncer no Brasil', 'codTipoOrgao': 3, 'tipoOrgao': 'Comissão Especial', 'nomePublicacao': 'Comissão Especial sobre Combate ao Câncer no Brasil', 'nomeResumido': 'Saúde'}]","{'nome': None, 'predio': None, 'sala': None, 'andar': None}",
+66408,https://dadosabertos.camara.leg.br/api/v2/eventos/66408,2022-09-08T10:00,2022-09-08T12:05,Encerrada,Sessão Não Deliberativa Solene,Comemorar o bicentenário da Independência do Brasil.,,"[{'id': 111, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/111', 'sigla': 'CN', 'nome': 'CONGRESSO NACIONAL', 'apelido': 'CONGRESSO NACIONAL', 'codTipoOrgao': 81001, 'tipoOrgao': 'Órgão do Congresso Nacional', 'nomePublicacao': 'CN', 'nomeResumido': 'Congresso Nacional'}]","{'nome': 'Plenário da Câmara dos Deputados', 'predio': None, 'sala': None, 'andar': None}",https://www.youtube.com/watch?v=-4-7xG7rLXw
+66409,https://dadosabertos.camara.leg.br/api/v2/eventos/66409,2022-09-12T10:00,2022-09-12T11:22,Encerrada,Sessão Não Deliberativa Solene,"Homenagem aos 33 Anos da Associação dos Servidores Terceirizados do CN
+ Homenagem aos 33 Anos da Associação dos Servidores Terceirizados do Congresso Nacional",,"[{'id': 180, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/180', 'sigla': 'PLEN', 'nome': 'Plenário', 'apelido': 'Plenário', 'codTipoOrgao': 26, 'tipoOrgao': 'Plenário Virtual', 'nomePublicacao': 'Plenário', 'nomeResumido': 'Plenário'}]","{'nome': 'Plenário da Câmara dos Deputados', 'predio': None, 'sala': None, 'andar': None}",https://www.youtube.com/watch?v=4VO5hbTuLMk
+66411,https://dadosabertos.camara.leg.br/api/v2/eventos/66411,2022-09-14T09:00,,Convocada,Seminário,"Privatização da Petrobrás e seus Impactos em Sergipe e no Nordeste
+ 1) DEPUTADO FEDERAL JOÃO DANIEL (Confirmado)
+   Presidente da Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia - Câmara dos Deputados
+
+2) BERGSON CARLOS DA SILVA (Confirmado)
+   Diretor
+   Sindicato dos Petroleiros do Litoral Paulista AL-SE (FNP)
+
+3) FLÁVIA SANTANA RODRIGUES (Confirmada)
+   Supervisora
+   Departamento Intersindical de Estatística e Estudos Socioeconômicos
+
+4) JAIRO DE JESUS (Confirmado)
+   Central Única dos Trabalhadores
+
+5) RAIMUNDO TELES (Confirmado)
+   Federação Única dos Petroleiros
+
+6) ROSILDO MESSIAS SILVA (Confirmado)
+   Ex-Gerente-Geral
+   Fábrica de Fertilizantes Nitrogenados
+
+7) SILVIO SÁ (Confirmado)
+   Presidente
+   Sindicato das Empresas de Transporte Comercial de Carga do Litoral Paulista - Sergipe","Auditório SINDSAN, Rua Marechal Deodoro da Fonseca, 1012, Getúlio Vargas, Aracaju - SE","[{'id': 2017, 'uri': 'https://dadosabertos.camara.leg.br/api/v2/orgaos/2017', 'sigla': 'CINDRA', 'nome': 'Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia', 'apelido': 'Integração Nacional, Desenvolvimento Regional e Amazônia', 'codTipoOrgao': 2, 'tipoOrgao': 'Comissão Permanente', 'nomePublicacao': 'Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia', 'nomeResumido': 'Amazônia'}]","{'nome': None, 'predio': None, 'sala': None, 'andar': None}",
